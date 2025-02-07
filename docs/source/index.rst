@@ -1,10 +1,11 @@
 ######################################################
-FNK00xx
+Freenove Super Starter Kit for ESP32 S3
 ######################################################
 
 .. toctree::
    :maxdepth: 1
-   :caption: FNK00xx
+   :caption: FNK0099
    :glob:
 
-   fnk00xx/fnk00xx.rst
+   fnk0099/codes/C.rst
+   fnk0099/codes/Python.rst
